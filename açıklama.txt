@@ -1,0 +1,2 @@
+animate.css dosyası kendi bilgisayarımda klasör içinde olduğundan kodumu indirip çalıştırmak istediğinizde animasyonlar çalışmayabilir.
+bu yüzden önerim src linkini kendi indiridğiniz şekilde düzenlemenizdir.
